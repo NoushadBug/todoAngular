@@ -123,12 +123,7 @@
         },
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
-          "options": {
-            "baseHref": "https://noushadbug.github.io/todoAngular/",
-            "repo": "https://github.com/NoushadBug/todoAngular/",
-            "name": "NoushadBug",
-            "email": "iflamegooglic@gmail.com"
-          }
+          "options": {}
         }
       }
     }
