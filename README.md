@@ -9,5 +9,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## See the App deployed on Firebase
 
-https://todoangular-nsd.web.app/
+<a href="https://todoangular-nsd.web.app/" target="_blank">Visit the demo!</a>
+
 
